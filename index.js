@@ -7,3 +7,8 @@ function happyHolidays(){
 function happyHolidaysTo(you){
   return 'Happy holidays, you!'
 }
+
+
+function happyHolidayto(a,b){
+  return 'Happy ${a},${b}!'
+}
