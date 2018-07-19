@@ -5,5 +5,5 @@ function happyHolidays(){
 
 
 function happyHolidaysTo(name){
-  var message = 'Happy holidays, ${name}!'
+  return 'Happy holidays, ${name}!'
 }
